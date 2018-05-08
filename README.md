@@ -1,6 +1,8 @@
 # hero-classification
 **Machine Learning for beginners**
 
+My first small machine learning project outside of class. This is a really simple code that deals with a small dataset. 
+
 This is the code used for the hero classification of a certain individual. The code uses a scikit-learn machine learning library to train a decision tree on a small dataset of certain characteristics seen in comics. The output will either label the individual as a hero or villain. Thus, we will be able to determine a random individual to be either a hero or villain based on the features (gender, mask, cape, human).
 
 **Dependencies**
